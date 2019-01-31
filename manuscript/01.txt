@@ -1,6 +1,6 @@
-ZERO BUG POLICY
+# ZERO BUG POLICY
 
-EIN ERFAHRUNGSBERICHT 
+## EIN ERFAHRUNGSBERICHT 
 Ein fremder Planet. Ein Aussenposten der Menschen. Alles ist ruhig. Plötzlich schreit  jemand: «Bugs! Bugs!» Soldaten rennen auf die Verteidigungsmauer. Die Kamera  folgt ihnen und zeigt den Zuschauern den Blick auf eine weite Ebene. In der Ferne  hinter einer Hügelkuppe erscheint die erste Angriffswelle der Ausserirdischen. Es  sind riesige Käfermonster. Bugs.
-Zuerst sind es nur wenige, aber dann folgen immer mehr. Hunderte. Tausende.  Die Soldaten feuern in die Menge der Bugs, aber es sind einfach zu viele. Die Bugs  erreichen die Mauer, klettern übereinander hinweg und überrennen schliesslich die  Soldaten.
-Dies ist eine Szene aus einem alten Science-Fiction-Film1. Für mich ist es leider aber  auch eine Szene aus einem vergangenen Softwareprojekt.
+Zuerst sind es nur wenige, aber dann folgen immer mehr. Hunderte. Tausende.  Die Soldaten feuern in die Menge der Bugs, aber es sind einfach zu viele. Die Bugs  erreichen die Mauer, klettern übereinander hinweg und überrennen schliesslich die Soldaten.
+Dies ist eine Szene aus einem alten Science-Fiction-Film. Für mich ist es leider aber  auch eine Szene aus einem vergangenen Softwareprojekt.
