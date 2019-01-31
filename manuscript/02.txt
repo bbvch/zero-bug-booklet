@@ -1,7 +1,12 @@
 ﻿# DER STURM ZIEHT AUF
 Es begann alles ganz harmlos. Wir waren ein kleines  Scrum-Team mit einem eigenen Testspezialisten.  Bei unserem Projekt handelte es sich um eine  Geräteentwicklung, bei der wir leider keinen direkten  Kundenkontakt hatten. Die Ergebnisse unserer  Sprints lieferten wir darum an eine firmeninterne  Testabteilung. Zu diesem Zeitpunkt hatten wir die  Bugs im Griff, und unsere Abnehmer waren sehr  zufrieden mit der gelieferten Qualität.
+
 ![first image](images/Image1.jpg)
+
 Dann kam ein zweites Team dazu. Wir lieferten  zwar immer noch gute Qualität, produzierten aber  auch mehr Bugs. Um die Planung zu vereinfachen,  bekamen die Bugs nun Prioritäten: hoch, mittel oder  tief. «Hoch» priorisierte Bugs erledigten wir sofort.  Bugs mit der Priorität «Mittel» kamen an die Reihe,  wenn wir etwas Extrazeit hatten (was kaum der  Fall war). Die restlichen Bugs erschienen gar nicht  wirklich auf unserem Radar.
+
 ![second images](images/Image2.jpg)
+
 Während des Projekts gab es unerwartet ein  umfangreiches Paket mit neuen Anforderungen.  Um Verzögerungen zu vermeiden, erhielten wir  Unterstützung von vier weiteren Teams. Zwei davon  arbeiteten an einem anderen Standort im Ausland.  Die Architektur war aber immer noch auf ein Team  ausgelegt. Und so standen sich alle gegenseitig  auf den Füssen und die Anzahl Bugs wurde schnell  dreistellig.
+
 ![third image](images/Image3.jpg)
