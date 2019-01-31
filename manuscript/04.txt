@@ -1,0 +1,13 @@
+﻿ZERO BUG POLICY
+Niemand war glücklich. Wir alle wollten etwas an der Situation ändern. Aber was? Da fiel jemandem eine  Aussage ein, die er an einer Scrum-Master-Zertifizierung gehört hatte: «Bei uns überlebt kein Bug die Nacht.»  Das klang ziemlich abenteuerlich, aber was hatten wir schon zu verlieren?
+Also versuchten wir, die Projektleitung von einer Zero Bug Policy zu überzeugen. Wir wollten nicht länger an  neuen Funktionen arbeiten, solange es noch kritische Bugs im System gab. Und wir hatten Glück. Am Ende  war die Projektleitung an Bord und stand voll hinter uns.
+Damals legten wir einfach los. Hätten wir uns nur  etwas Zeit genommen und nach bereits bestehenden  Lösungen gesucht, dann hätten wir einen grossen  Rückschlag verhindern können. Aber ein Schritt  nach dem anderen. Hier zuerst die Definition, die  uns gefehlt hat.
+[Definition mit Untertitel]
+Die Zero Bug Policy ist auch als Zero Bug Tolerance bekannt. Das führt häufig zu dem Missverständnis, dass  man ein komplett fehlerfreies Produkt erstellen will. Ab einer gewissen Komplexität ist das aber nicht mehr  wirtschaftlich. Die Zero Bug Policy betrifft nur bekannte Bugs. Sie sagt nichts darüber aus, wie viel Aufwand  in weitere Bug-Suche investiert werden soll, wenn zu einem gewissen Zeitpunkt keine bekannten Bugs mehr  existieren.
+Aber heisst das nun, dass alle bekannten Bugs behoben werden müssen? Ja und nein. Die Zero Bug Policy löst dieses Problem sehr simpel. Wenn ein neuer Bug entdeckt wird, gibt es nur zwei Möglichkeiten:
+• Der Bug wird sofort behoben.
+• Der Bug wird nicht behoben.
+[Image10.png]
+Und um Missverständnisse zu vermeiden: Entscheidet man sich, den Bug nicht zu beheben, gibt es auch kein  Management oder Tracking für diesen Bug. Es ist per Definition kein Bug mehr, sondern ein akzeptiertes  Verhalten des Produkts. Das klingt radikal, ist aber notwendig, damit die Zero Bug Policy ihr ganzes Potenzial  entfalten kann.
+Nun, wir kannten diese Definition damals noch nicht.  Bei uns galt einfach: «Kein Bug überlebt den Sprint.»  Um das zu erreichen, mussten wir aber zuerst runter  auf null Bugs. Wieder hatten wir Glück und die  Projektleitung gewährte einen Aufschub, sodass wir  uns vollständig auf die Bugs konzentrieren konnten.  Es dauerte mehrere Sprints, aber am Ende hatten wir  unser Ziel erreicht: keine bekannten Bugs im System.
+[Image11.jpg]

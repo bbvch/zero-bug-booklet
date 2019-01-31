@@ -1,0 +1,10 @@
+﻿WIESO NICHT ...?
+«Wieso muss ich einen neuen Bug sofort beheben? Wir haben momentan Wichtigeres zu tun. Kann ich nicht  einfach meine Storys fertigmachen und den Bug auf den nächsten Sprint verschieben?» Solche Aussagen  waren nicht ungewöhnlich während unserer ersten Schritte mit der Zero Bug Policy.  
+Es hat sich aber gezeigt, dass das Verschieben von Bugs kaum Vorteile brachte. Im nächsten Sprint hatte man wieder wichtigere Arbeit zu erledigen und es kamen neue Bugs hinzu. «Ich mache es später, wenn ich mehr Zeit habe» hat für uns nie wirklich funktioniert.
+[Image19.jpg]
+Vor der Zero Bug Policy hatten wir auch eine Weile versucht, Bugs  ins Backlog einzufügen. Bugs waren aber schwer einschätzbar  und unser Backlog begann stark zu fluktuieren. Ausserdem waren  unsere Product Owner nicht an Bugs interessiert. Falls also etwas  aus einem übervollen Sprint entfernt werden musste, waren es  immer zuerst Bugs. 
+[Image20.jpg]
+Schliesslich gab es eine Weile den Plan, die Bugs am Ende der Entwicklung in der Stabilisierungsphase zu  beheben. Dann sind aber die meisten Bugs schon sehr alt, was zusätzlichen Aufwand verursacht. Ausserdem  ist das auch für den Release-Plan ein beträchtliches Risiko. Angenommen, die Wahrscheinlichkeit, dass  mit der Behebung eines Bugs ein neuer Bug eingeführt wird, liegt bei 30 Prozent. Bei 300 bereits  bekannten Bugs, die in der Stabilisierungsphase behoben werden, erhalten wir also etwa 100 neue  Bugs. Da ist es ziemlich wahrscheinlich, dass einer der neuen Bugs ein Show-Stopper ist, der Einfluss auf  den Release-Plan hat. 
+Mit der Zero Bug Policy gibt es keine bekannten Bugs zu Beginn der Stabilisierungsphase und damit auch kein Risiko für zusätzliche Show-Stopper durch spätes Bugfixing.
+[Image21.jpg]
+Trotzdem werden natürlich während der Stabilisierungsphase immer noch bisher unentdeckte Bugs gefunden  und repariert. Show-Stopper können also immer noch überraschend auftreten. Sie sind aber viel weniger  wahrscheinlich, da zu diesem Zeitpunkt dank der Zero Bug Policy insgesamt viel weniger Reparaturen und  damit Code-Änderungen stattfinden.
